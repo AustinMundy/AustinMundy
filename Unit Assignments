@@ -1,0 +1,138 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	This is an example of a sub page for each module.  It has to be replicated in each module, containing the requested contents -  artefacts, notes, reflections etc
+	Ensure you give a different title to each replica and link it to the main module page accordingly.
+-->
+<html>
+	<head>
+		<title>Austin Mundy</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="css/main.css" />
+		<noscript><link rel="stylesheet" href="css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+            <a href="index.html" class="logo"><span>Austin Mundy</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="1LCYS.html">Launching into Cyber Security</a></li>
+							<li><a href="2NISM.html">Network and Information Security Management</a></li>
+							<li><a href="3IRM.html">Information Risk Management</a></li>
+							<li><a href="4SSD.html">Secure Software Development</a></li>
+							<li><a href="5THF.html">The Human Factor</a></li>
+							<li><a href="6SSA.html">Secure Systems Architecture</a></li>
+							<li><a href="7PDFCYL.html">Principles of Digital Forensics and Cyber Law</a></li>
+							<li><a href="8RMPP.html">Research Methods and Professional Practice</a></li>
+							<li><a href="9CYSPROJ.html">MSc Cyber Security Project</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Reflections</h1>
+									</header>
+									<span class="image"><img src="images/pic02.jpg" alt="" /></span>
+									<p><h3>Unit 1</h3></p>
+									<p>
+									In unit 1 I was introduced to the history of Information Security Management. As well the modern classifications that are used to model threats and discover vulnerabilites. 
+									</p>
+							
+						
+									<p><h3>Unit 2</h3></p>
+									<p>
+									In unit 2 I was introducted to real world security issue's, along with implications of information security threats and vulnerabilities. A article was read that described a real world example of security threats and vulnerabilites. The article provided great insight into how people conduct tests but also ways that threats can be defended against. As well I continued to learn more about threat modeling with Stride and Dread.  
+									</p>
+						
+									<p><h3>Unit 3</h3></p>
+									<p>
+									In unit 3 I was introducted to the Network Fundamentals. Networking as a subject is something I am familar with as I work as a network technician. It did however, provide a great refresher on the subject and some more insight into the history of field.
+									</p>
+									<p><h3>Unit 4</h3></p>
+									<p>
+									In unit 4 I was introducted to common networking command line tools. The majority of these tools I am very familiar with and use on a regulary basis. However, the books asigned did provide further information about how the tools are used for cyber security. 
+									</p>
+									<p><h3>Unit 5</h3></p>
+									<p>
+									In unit 5 I was introducted to networking tools and components. The majority of the information discussed I was already famimlar with and had a good working knowledge of. I did gain more inforamtion about the cloud and other virtual networking tools. Cloud based networking is something I don't have a lot of experince with. This unit in particular provided me with a good foundation of information, that I was then able to take and research more information from.
+									</p>
+									<p><h3>Unit 6</h3></p>
+									<p>
+									In unit 6 I was introducted to network and vulnerability scanning tools. This unit was very interesting and provide a lot of new information. I had little previous information about these tools and their capabilities. It really emphasised the sheer scope of tools available to use. A significant amount of further practice would be necessary to truley rememeber how to use the toosl but also make effective use of them. 
+									</p>
+									<p><h3>Unit 7</h3></p>
+									<p>
+									In unit 7 I was introducted to risks and the common standards used to classify them in the Information Security Management field. These standards are incredibly important in the information technology field. They are used everyday by companies to make major decisions. At the same time they are very complex and difficult to understand without pracitce implementing them. I need do significantly more studying on the standards to get a better understanding of them 
+									</p>
+									<p><h3>Unit 8</h3></p>
+									<p>
+									In unit 8 I was introducted and further educated on several topics, including the GDPR and financial standards. In particular, I learned a lot by working through the discussion post and the seminar preparation assignment. Lastly, I got very well acquainted with several vulnerability scanning by completing my portion of the executive summary assignment. 
+									</p>
+									<p><h3>Unit 9</h3></p>
+									<p>
+									In unit 9 I was introducted to some very interesting topics in cyber logging and forensics. Cyber forensics was very interesting to study and read about. This unit really showed me somthing interesting, that I could possibly pursue as a career.
+									</p>
+									<p><h3>Unit 10</h3></p>
+									<p>
+									In unit 10 I learned about mitigation security breaches. This unit was very interesting and enlightening. In particular this unit gave me a great set of skills that I should built of. As someone who wishes to be a secuirty analyst, analysing security breaches is definitely something I must know.
+									</p>
+									<p><h3>Unit 11</h3></p>
+									<p>
+									In unit 11 I learned more about the future of security systems. It showed me more about just how much there is to learn in the cyber security field. Their is an infinte amount of possible security threats. For me it showed that to be sucessful in the cyber security field, one has to constantly be aware of changing trends.
+									</p>
+									<p><h3>Unit 12</h3></p>
+									<p>
+									In unit 12 I learned more about the future of the internet. It further reinforced the concepts about how vast the internet and technologies are. At the same time it is really exciting about the future. As well I don't think it is possible for a career in cyber security to get boring, with how many changes are possible.
+									</p>
+									
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://austinmundy.github.io/AustinMundy/Module%202.html" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="js/jquery.min.js"></script>
+			<script src="js/jquery.scrolly.min.js"></script>
+			<script src="js/jquery.scrollex.min.js"></script>
+			<script src="js/browser.min.js"></script>
+			<script src="js/breakpoints.min.js"></script>
+			<script src="js/util.js"></script>
+			<script src="js/main.js"></script>
+
+	</body>
+</html>
